@@ -6,7 +6,7 @@ import setuptools
 
 # needed packages
 REQUIRES = [
-    'git+https://github.com/guy-inkognito/enocean.git',
+    'enocean @ https://github.com/guy-inkognito/enocean/archive/master.zip',
     'paho-mqtt',
 ]
 
